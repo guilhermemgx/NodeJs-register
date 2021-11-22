@@ -1,0 +1,8 @@
+// Coloque seus dados do mail trap por favor
+// E delete esta linha e a linha a cima
+{
+    "host": "",
+    "port": ,
+    "user": "",
+    "pass": ""
+}
